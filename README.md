@@ -1,5 +1,4 @@
-### Hi there devops 👋
-do u like my profile?
+### Hi im rabiya, great to be here 👋
 
 <!--
 **Rabiyaquadri/Rabiyaquadri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
