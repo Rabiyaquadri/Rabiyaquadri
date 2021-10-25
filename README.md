@@ -6,6 +6,12 @@
 ###### -looking for more great mentor support from 
 ###### ![Eddie jaoude](https://d1aettbyeyfilo.cloudfront.net/eddiejaoude/15861346_5ff10ff018976_speaker_copy.jpg)
 
+<p align="center">
+  <img 
+   src="https://github-readme-stats.vercel.app/api?username=Rabiyaquadri&show_icons=true&theme=tokyonight" 
+/>
+  </p>
+
 <!--
 **Rabiyaquadri/Rabiyaquadri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
