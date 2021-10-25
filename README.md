@@ -1,4 +1,10 @@
-### Hi im rabiya, great to be here 👋
+### Hi Rabiya here👋 
+###### *doing my pg in cse*
+###### *aiming to become opensource software developer*
+###### -currently learning python
+###### -rebuilding my DSA from scratch following [youtube](https://www.youtube.com/watch?v=wn49bJOYAZM&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
+###### -looking for more great mentor support from 
+###### ![Eddie jaoude](https://d1aettbyeyfilo.cloudfront.net/eddiejaoude/15861346_5ff10ff018976_speaker_copy.jpg)
 
 <!--
 **Rabiyaquadri/Rabiyaquadri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
