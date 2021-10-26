@@ -3,7 +3,7 @@
 name: Activity
 <!--START_SECTION:activity-->
 
-# Controls when the workflow will run
+#Controls when the workflow will run
 on:
 schedule:
                 - cron: '*/30 * * * *'
