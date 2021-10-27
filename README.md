@@ -1,4 +1,4 @@
-### Hi Rabiya here👋 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Rabiya here! 
 ###### *doing my pg in cse*
 ###### *aiming to become opensource software developer*
 ###### -currently learning python
